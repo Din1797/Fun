@@ -1,0 +1,15 @@
+C:\Users\pantera\Desktop\fun\SEE\exp02\bin\Debug\net6.0\exp02.exe
+C:\Users\pantera\Desktop\fun\SEE\exp02\bin\Debug\net6.0\exp02.deps.json
+C:\Users\pantera\Desktop\fun\SEE\exp02\bin\Debug\net6.0\exp02.runtimeconfig.json
+C:\Users\pantera\Desktop\fun\SEE\exp02\bin\Debug\net6.0\exp02.dll
+C:\Users\pantera\Desktop\fun\SEE\exp02\bin\Debug\net6.0\exp02.pdb
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\exp02.csproj.AssemblyReference.cache
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\exp02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\exp02.AssemblyInfoInputs.cache
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\exp02.AssemblyInfo.cs
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\exp02.csproj.CoreCompileInputs.cache
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\exp02.dll
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\refint\exp02.dll
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\exp02.pdb
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\exp02.genruntimeconfig.cache
+C:\Users\pantera\Desktop\fun\SEE\exp02\obj\Debug\net6.0\ref\exp02.dll
